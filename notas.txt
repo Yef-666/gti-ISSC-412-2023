@@ -1,0 +1,23 @@
+Comandos:
+
+-  git clone
+Crea una copia local del repositorio.
+Ej. git clone https://github.com/Yef-666/gti-ISSC-412-2023.git
+
+
+- git status
+nos devuelve el estado actual del repositorio-
+Ej. git status
+
+- git add
+Preparar cambios (linea por linea) para ser incluidos en commit.
+ej 1. git add notas.txt (agrega solo 1 archivo).
+ej 2. git add . (agrega todos los archivos)
+
+- git commit
+Crea un nuevo commit con los cambios que preparamos con el comando git add.
+Tiene un ID de commit y un mensaje.
+Ej. git commit -m "<mensaje_commit>"
+
+- git push
+
