@@ -44,3 +44,7 @@ Las ramas nos permiten trabajar con el repositorio sin alterar la estabilidad de
 Como cualquier otra rama, hay un local y una remota.
 Las ramas parten de un commit de origen.
 
+
+Integración de ramas:
+Para este fin, se utiliza la operación "merge".
+Un merge combina los commits de una rama hacia otra en un solo commit conocido como: "merge commit".
